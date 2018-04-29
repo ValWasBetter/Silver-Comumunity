@@ -2,7 +2,7 @@
   "name": "Silver Community"
   "descriptiong": ""
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.js", Silver Community
   "scripts": { 
     "start": "node bot.js"
   },
