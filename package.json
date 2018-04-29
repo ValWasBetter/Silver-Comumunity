@@ -1,0 +1,13 @@
+{
+  "name": "Silver Community"
+  "descriptiong": ""
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": { 
+    "start": "node bot.js"
+  },
+  "despendencies": {
+    "discord.js": "11.1.0"
+    "resquest": "2.81.0"
+  }
+}
